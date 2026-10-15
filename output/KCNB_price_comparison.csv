@@ -1,0 +1,3 @@
+Option,Strike Price ($/gal),KCNB Quote ($/gal),Black-76 Model ($/gal),Quote minus Model ($/gal)
+Cap,1.68,0.079,0.3287747169219141,-0.2497747169219141
+Floor,1.4,0.079,0.21463087385329646,-0.13563087385329647
